@@ -1,10 +1,4 @@
-楽しくやろう
-
-続けよう
-
-疲れたら寝よう
-
-byクソザコプログラマーもどき
+# kj
 
 <!--
 **shun-god/shun-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
