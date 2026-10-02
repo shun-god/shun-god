@@ -1,6 +1,7 @@
 # kj
 
-こんにちは。
+こんにちは。ｌ
+
 
 <!--
 **shun-god/shun-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
